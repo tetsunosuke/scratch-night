@@ -6,16 +6,32 @@ layout: default
 
 このコンテンツは Scratch ハンズオン を行うために参照する資料です
 
-## Scratch のページを開きましょう
+## まず Scratch のページを開きましょう
 
-* [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
+下記を開くと新しい Window で Scratch の画面が開きます
 
-### Small image
+* [Scratch](https://scratch.mit.edu/projects/editor/){:target="_blank"}
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+まずは、全員で一緒に、操作方法と画面の内容を確認したいと思います。
 
-### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-![Branching](/assets/images//blacktocat.png)
+1. コード/コスチューム/音
+ - 今回はコードとコスチュームを使います
+ - コスチュームの画面の説明...
+ - コードはあとで触ります
+2. 右側の画面の説明
+ - 猫の名前は「Scratchキャット」というそうです
+ - スプライトと書いてあるパネルを確認
+ - x,y,大きさ,向きに好きな数字を入れてみる
+ - なんかあったらここから戻せる旨説明
+3. コードを触ってみる
+ - 「10歩動かす」を押す→画面とスプライトのパネルを確認
+ - 「10」の数字を変えて押してみる
+ - 「-50」とかも試してみる
+ - 他のボタンも試してみよう
+4. チュートリアル を見ながらやってみよう
+ - 「さぁ、始めましょう」を選んで動画を見てみましょう
 
+## さあ、ティンカリングしましょう
+
+他のチュートリアルから好きなものを選んで試してみましょう
